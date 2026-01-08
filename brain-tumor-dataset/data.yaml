@@ -1,0 +1,5 @@
+train: D:/bain tumor/Brain Tumore image Dataset (1)/brain-tumor-dataset/images/train
+val: D:/bain tumor/Brain Tumore image Dataset (1)/brain-tumor-dataset/images/val
+
+nc: 1
+names: ['tumor']
