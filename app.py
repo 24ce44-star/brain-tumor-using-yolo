@@ -9,7 +9,7 @@ import os
 # CONFIG
 # ----------------------------
 YOLO_MODEL_PATH = "models/best.pt"
-YOLO_VAL_FOLDER = "D:\\myproject\\brain-tumor-using-yolo\\val"
+YOLO_VAL_FOLDER = r"val"
 PIXEL_SPACING = (0.4688, 0.4688)  # mm per pixel
 CONFIDENCE = 0.5
 
